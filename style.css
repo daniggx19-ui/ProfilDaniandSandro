@@ -1,0 +1,74 @@
+body {
+  background-color: #93b0b8;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #161819;
+  margin: 30px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: lighter;
+  margin-top: 0;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: bold;
+  text-transform: lowercase;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+p.bio {
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+img.foto-profil {
+  width: 260px;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: #77939b;
+}
+
+ol.daftar-edu {
+  list-style-type: decimal;
+  background-color: #d96b43;
+  color: white;
+  padding: 15px 35px;
+}
+
+ul.daftar-skill {
+  list-style-type: square;
+  background-color: #eef4f6;
+  padding: 15px 35px;
+}
+
+ul.daftar-sosmed,
+ul.daftar-exp {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul.daftar-sosmed li,
+ul.daftar-exp li {
+  margin-bottom: 8px;
+}
+
+i.fa-globe {
+  color: #2294cd;
+  font-size: 16px;
+}
+
+i.fa-instagram,
+i.fa-behance {
+  color: #d96b43;
+  font-size: 18px;
+}
+
